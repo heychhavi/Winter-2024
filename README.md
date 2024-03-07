@@ -8,7 +8,7 @@ Appraised vehicle data can be identified by the suffix *'_appraisal'* (for examp
 
 
 Relevant Files:
-   * winter_2024_data - *the data set will have vehicle attributes for purchased and appraised cars, including make/model/trim, mileage, appraisal and purchase value*
+  * winter_2024_data - *the data set will have vehicle attributes for purchased and appraised cars, including make/model/trim, mileage, appraisal and purchase value*
   * Winter 2024 Showcase Data Dictionary - *information about each feature in the data set*  
   * Frequently Asked Questions - *we will also document any relevant questions and answers communicated through email or on our Decemeber 6th, 2023 & January 11th, 2024 Q&A calls here*  
 
